@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pZdumh7VxHZd2JRE/h++LJoxuxJ1g2B12lDfaYTgnILTZHJMHAUbrymrh2w3CyofP7/v6tqfnjmeaB0euJ+y6A==",
+  "success": true,
+  "projectFilePath": "E:\\GitProjects\\TQifo.Core\\TQifo.Web\\TQifo.Web\\TQifo.web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\myxqa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

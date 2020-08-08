@@ -1,0 +1,9 @@
+E:\GitProjects\TQifo.Core\TQifo.Web\Qifo.Repository\bin\Debug\netstandard2.0\Qifo.Repository.deps.json
+E:\GitProjects\TQifo.Core\TQifo.Web\Qifo.Repository\bin\Debug\netstandard2.0\Qifo.Repository.dll
+E:\GitProjects\TQifo.Core\TQifo.Web\Qifo.Repository\bin\Debug\netstandard2.0\Qifo.Repository.pdb
+E:\GitProjects\TQifo.Core\TQifo.Web\Qifo.Repository\obj\Debug\netstandard2.0\Qifo.Repository.csprojAssemblyReference.cache
+E:\GitProjects\TQifo.Core\TQifo.Web\Qifo.Repository\obj\Debug\netstandard2.0\Qifo.Repository.AssemblyInfoInputs.cache
+E:\GitProjects\TQifo.Core\TQifo.Web\Qifo.Repository\obj\Debug\netstandard2.0\Qifo.Repository.AssemblyInfo.cs
+E:\GitProjects\TQifo.Core\TQifo.Web\Qifo.Repository\obj\Debug\netstandard2.0\Qifo.Repository.csproj.CoreCompileInputs.cache
+E:\GitProjects\TQifo.Core\TQifo.Web\Qifo.Repository\obj\Debug\netstandard2.0\Qifo.Repository.dll
+E:\GitProjects\TQifo.Core\TQifo.Web\Qifo.Repository\obj\Debug\netstandard2.0\Qifo.Repository.pdb

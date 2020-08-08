@@ -1,0 +1,9 @@
+E:\GitProjects\TQifo.Core\TQifo.Web\TQIFO.DAL\bin\Debug\netstandard2.0\TQIFO.DAL.deps.json
+E:\GitProjects\TQifo.Core\TQifo.Web\TQIFO.DAL\bin\Debug\netstandard2.0\TQIFO.DAL.dll
+E:\GitProjects\TQifo.Core\TQifo.Web\TQIFO.DAL\bin\Debug\netstandard2.0\TQIFO.DAL.pdb
+E:\GitProjects\TQifo.Core\TQifo.Web\TQIFO.DAL\obj\Debug\netstandard2.0\TQIFO.DAL.csprojAssemblyReference.cache
+E:\GitProjects\TQifo.Core\TQifo.Web\TQIFO.DAL\obj\Debug\netstandard2.0\TQIFO.DAL.AssemblyInfoInputs.cache
+E:\GitProjects\TQifo.Core\TQifo.Web\TQIFO.DAL\obj\Debug\netstandard2.0\TQIFO.DAL.AssemblyInfo.cs
+E:\GitProjects\TQifo.Core\TQifo.Web\TQIFO.DAL\obj\Debug\netstandard2.0\TQIFO.DAL.csproj.CoreCompileInputs.cache
+E:\GitProjects\TQifo.Core\TQifo.Web\TQIFO.DAL\obj\Debug\netstandard2.0\TQIFO.DAL.dll
+E:\GitProjects\TQifo.Core\TQifo.Web\TQIFO.DAL\obj\Debug\netstandard2.0\TQIFO.DAL.pdb
