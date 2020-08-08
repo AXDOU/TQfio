@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GitProjects\\TQifo.Core\\TQifo.Web\\TQifo.DTO\\TQifo.DTO.csproj": {}
+    "E:\\GitProjects\\TQfio\\TQifo.DTO\\TQifo.DTO.csproj": {}
   },
   "projects": {
-    "E:\\GitProjects\\TQifo.Core\\TQifo.Web\\TQifo.DTO\\TQifo.DTO.csproj": {
+    "E:\\GitProjects\\TQfio\\TQifo.DTO\\TQifo.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GitProjects\\TQifo.Core\\TQifo.Web\\TQifo.DTO\\TQifo.DTO.csproj",
+        "projectUniqueName": "E:\\GitProjects\\TQfio\\TQifo.DTO\\TQifo.DTO.csproj",
         "projectName": "TQifo.DTO",
-        "projectPath": "E:\\GitProjects\\TQifo.Core\\TQifo.Web\\TQifo.DTO\\TQifo.DTO.csproj",
+        "projectPath": "E:\\GitProjects\\TQfio\\TQifo.DTO\\TQifo.DTO.csproj",
         "packagesPath": "C:\\Users\\myxqa\\.nuget\\packages\\",
-        "outputPath": "E:\\GitProjects\\TQifo.Core\\TQifo.Web\\TQifo.DTO\\obj\\",
+        "outputPath": "E:\\GitProjects\\TQfio\\TQifo.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wdNusA8e25h47XDAsWUrX7hveIAfvfHMHaki4AdRjGtqSn4QUw0MW5Ok35xvTvfb6AXtTd5DsyTmH/cQEW/9UQ==",
+  "dgSpecHash": "qi+xG8XCXh+el4UFR3e4SOktGyNGApm6dp+7jYqr2TwY7jgEhMM+YJV/ZAy0oJL96U1e9p8o2S5IS1SQ2htMSA==",
   "success": true,
-  "projectFilePath": "E:\\GitProjects\\TQifo.Core\\TQifo.Web\\TQfio.Service\\TQfio.Service.csproj",
+  "projectFilePath": "E:\\GitProjects\\TQfio\\TQfio.Service\\TQfio.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

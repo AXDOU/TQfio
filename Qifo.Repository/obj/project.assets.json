@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GitProjects\\TQifo.Core\\TQifo.Web\\Qifo.Repository\\Qifo.Repository.csproj",
+      "projectUniqueName": "E:\\GitProjects\\TQfio\\Qifo.Repository\\Qifo.Repository.csproj",
       "projectName": "Qifo.Repository",
-      "projectPath": "E:\\GitProjects\\TQifo.Core\\TQifo.Web\\Qifo.Repository\\Qifo.Repository.csproj",
+      "projectPath": "E:\\GitProjects\\TQfio\\Qifo.Repository\\Qifo.Repository.csproj",
       "packagesPath": "C:\\Users\\myxqa\\.nuget\\packages\\",
-      "outputPath": "E:\\GitProjects\\TQifo.Core\\TQifo.Web\\Qifo.Repository\\obj\\",
+      "outputPath": "E:\\GitProjects\\TQfio\\Qifo.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GitProjects\\TQifo.Core\\TQifo.Web\\TQifo.Web\\TQifo.web.csproj": {}
+    "E:\\GitProjects\\TQfio\\TQifo.Web\\TQifo.web.csproj": {}
   },
   "projects": {
-    "E:\\GitProjects\\TQifo.Core\\TQifo.Web\\TQifo.Web\\TQifo.web.csproj": {
+    "E:\\GitProjects\\TQfio\\TQifo.Web\\TQifo.web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GitProjects\\TQifo.Core\\TQifo.Web\\TQifo.Web\\TQifo.web.csproj",
+        "projectUniqueName": "E:\\GitProjects\\TQfio\\TQifo.Web\\TQifo.web.csproj",
         "projectName": "TQifo.web",
-        "projectPath": "E:\\GitProjects\\TQifo.Core\\TQifo.Web\\TQifo.Web\\TQifo.web.csproj",
+        "projectPath": "E:\\GitProjects\\TQfio\\TQifo.Web\\TQifo.web.csproj",
         "packagesPath": "C:\\Users\\myxqa\\.nuget\\packages\\",
-        "outputPath": "E:\\GitProjects\\TQifo.Core\\TQifo.Web\\TQifo.Web\\obj\\",
+        "outputPath": "E:\\GitProjects\\TQfio\\TQifo.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

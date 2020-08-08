@@ -1,9 +1,0 @@
-E:\GitProjects\TQifo.Core\TQifo.Web\TQifo.IRepositoryes\bin\Debug\netstandard2.0\TQifo.IRepositoryes.deps.json
-E:\GitProjects\TQifo.Core\TQifo.Web\TQifo.IRepositoryes\bin\Debug\netstandard2.0\TQifo.IRepositoryes.dll
-E:\GitProjects\TQifo.Core\TQifo.Web\TQifo.IRepositoryes\bin\Debug\netstandard2.0\TQifo.IRepositoryes.pdb
-E:\GitProjects\TQifo.Core\TQifo.Web\TQifo.IRepositoryes\obj\Debug\netstandard2.0\TQifo.IRepositoryes.csprojAssemblyReference.cache
-E:\GitProjects\TQifo.Core\TQifo.Web\TQifo.IRepositoryes\obj\Debug\netstandard2.0\TQifo.IRepositoryes.AssemblyInfoInputs.cache
-E:\GitProjects\TQifo.Core\TQifo.Web\TQifo.IRepositoryes\obj\Debug\netstandard2.0\TQifo.IRepositoryes.AssemblyInfo.cs
-E:\GitProjects\TQifo.Core\TQifo.Web\TQifo.IRepositoryes\obj\Debug\netstandard2.0\TQifo.IRepositoryes.csproj.CoreCompileInputs.cache
-E:\GitProjects\TQifo.Core\TQifo.Web\TQifo.IRepositoryes\obj\Debug\netstandard2.0\TQifo.IRepositoryes.dll
-E:\GitProjects\TQifo.Core\TQifo.Web\TQifo.IRepositoryes\obj\Debug\netstandard2.0\TQifo.IRepositoryes.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fCntXsMe5HzTvn8LrwthabDUXB9VeHkfkU/HJGh6rZFD4uQy4mLiAYGNrsDoHDK01oRFgNgo3aEYCv3/VorJYw==",
+  "dgSpecHash": "pC6R6eGr8lCAF+t+sSolgk/iHoshhnVrHS0PgPBSKqLhe9/Za5s8ZaLCDem58iGXRfoBuLX48WOay0GgOAH1Gw==",
   "success": true,
-  "projectFilePath": "E:\\GitProjects\\TQifo.Core\\TQifo.Web\\TQifo.webApi\\TQifo.webApi.csproj",
+  "projectFilePath": "E:\\GitProjects\\TQfio\\TQifo.webApi\\TQifo.webApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\myxqa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
