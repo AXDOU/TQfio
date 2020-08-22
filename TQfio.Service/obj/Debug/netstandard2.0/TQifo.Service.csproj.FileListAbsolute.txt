@@ -1,0 +1,14 @@
+E:\GitProjects\TQfio\TQfio.Service\bin\Debug\netstandard2.0\TQifo.IService.dll
+E:\GitProjects\TQfio\TQfio.Service\bin\Debug\netstandard2.0\TQifo.Library.dll
+E:\GitProjects\TQfio\TQfio.Service\obj\Debug\netstandard2.0\TQifo.Service.AssemblyInfoInputs.cache
+E:\GitProjects\TQfio\TQfio.Service\obj\Debug\netstandard2.0\TQifo.Service.AssemblyInfo.cs
+E:\GitProjects\TQfio\TQfio.Service\bin\Debug\netstandard2.0\TQifo.Service.deps.json
+E:\GitProjects\TQfio\TQfio.Service\bin\Debug\netstandard2.0\TQifo.Service.dll
+E:\GitProjects\TQfio\TQfio.Service\bin\Debug\netstandard2.0\TQifo.Service.pdb
+E:\GitProjects\TQfio\TQfio.Service\bin\Debug\netstandard2.0\TQifo.IService.pdb
+E:\GitProjects\TQfio\TQfio.Service\bin\Debug\netstandard2.0\TQifo.Library.pdb
+E:\GitProjects\TQfio\TQfio.Service\obj\Debug\netstandard2.0\TQifo.Service.csprojAssemblyReference.cache
+E:\GitProjects\TQfio\TQfio.Service\obj\Debug\netstandard2.0\TQifo.Service.csproj.CoreCompileInputs.cache
+E:\GitProjects\TQfio\TQfio.Service\obj\Debug\netstandard2.0\TQifo.Service.csproj.CopyComplete
+E:\GitProjects\TQfio\TQfio.Service\obj\Debug\netstandard2.0\TQifo.Service.dll
+E:\GitProjects\TQfio\TQfio.Service\obj\Debug\netstandard2.0\TQifo.Service.pdb

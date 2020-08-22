@@ -1,0 +1,8 @@
+E:\GitProjects\TQfio\TQifo.Library\bin\Debug\netstandard2.0\TQifo.Library.deps.json
+E:\GitProjects\TQfio\TQifo.Library\bin\Debug\netstandard2.0\TQifo.Library.dll
+E:\GitProjects\TQfio\TQifo.Library\obj\Debug\netstandard2.0\TQifo.Library.AssemblyInfoInputs.cache
+E:\GitProjects\TQfio\TQifo.Library\obj\Debug\netstandard2.0\TQifo.Library.AssemblyInfo.cs
+E:\GitProjects\TQfio\TQifo.Library\bin\Debug\netstandard2.0\TQifo.Library.pdb
+E:\GitProjects\TQfio\TQifo.Library\obj\Debug\netstandard2.0\TQifo.Library.dll
+E:\GitProjects\TQfio\TQifo.Library\obj\Debug\netstandard2.0\TQifo.Library.pdb
+E:\GitProjects\TQfio\TQifo.Library\obj\Debug\netstandard2.0\TQifo.Library.csproj.CoreCompileInputs.cache

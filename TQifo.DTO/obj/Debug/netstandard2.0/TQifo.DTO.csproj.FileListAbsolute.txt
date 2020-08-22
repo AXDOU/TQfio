@@ -7,3 +7,11 @@ E:\GitProjects\TQifo.Core\TQifo.Web\TQifo.DTO\obj\Debug\netstandard2.0\TQifo.DTO
 E:\GitProjects\TQifo.Core\TQifo.Web\TQifo.DTO\obj\Debug\netstandard2.0\TQifo.DTO.csproj.CoreCompileInputs.cache
 E:\GitProjects\TQifo.Core\TQifo.Web\TQifo.DTO\obj\Debug\netstandard2.0\TQifo.DTO.dll
 E:\GitProjects\TQifo.Core\TQifo.Web\TQifo.DTO\obj\Debug\netstandard2.0\TQifo.DTO.pdb
+E:\GitProjects\TQfio\TQifo.DTO\bin\Debug\netstandard2.0\TQifo.DTO.deps.json
+E:\GitProjects\TQfio\TQifo.DTO\bin\Debug\netstandard2.0\TQifo.DTO.dll
+E:\GitProjects\TQfio\TQifo.DTO\bin\Debug\netstandard2.0\TQifo.DTO.pdb
+E:\GitProjects\TQfio\TQifo.DTO\obj\Debug\netstandard2.0\TQifo.DTO.AssemblyInfoInputs.cache
+E:\GitProjects\TQfio\TQifo.DTO\obj\Debug\netstandard2.0\TQifo.DTO.AssemblyInfo.cs
+E:\GitProjects\TQfio\TQifo.DTO\obj\Debug\netstandard2.0\TQifo.DTO.csproj.CoreCompileInputs.cache
+E:\GitProjects\TQfio\TQifo.DTO\obj\Debug\netstandard2.0\TQifo.DTO.dll
+E:\GitProjects\TQfio\TQifo.DTO\obj\Debug\netstandard2.0\TQifo.DTO.pdb

@@ -1,0 +1,12 @@
+E:\GitProjects\TQfio\TQfio.Model\obj\Debug\netstandard2.0\TQifo.Model.csprojAssemblyReference.cache
+E:\GitProjects\TQfio\TQfio.Model\obj\Debug\netstandard2.0\TQifo.Model.AssemblyInfoInputs.cache
+E:\GitProjects\TQfio\TQfio.Model\obj\Debug\netstandard2.0\TQifo.Model.AssemblyInfo.cs
+E:\GitProjects\TQfio\TQfio.Model\obj\Debug\netstandard2.0\TQifo.Model.csproj.CoreCompileInputs.cache
+E:\GitProjects\TQfio\TQfio.Model\bin\Debug\netstandard2.0\TQifo.Model.deps.json
+E:\GitProjects\TQfio\TQfio.Model\bin\Debug\netstandard2.0\TQifo.Model.dll
+E:\GitProjects\TQfio\TQfio.Model\bin\Debug\netstandard2.0\TQifo.Model.pdb
+E:\GitProjects\TQfio\TQfio.Model\bin\Debug\netstandard2.0\TQifo.Library.dll
+E:\GitProjects\TQfio\TQfio.Model\bin\Debug\netstandard2.0\TQifo.Library.pdb
+E:\GitProjects\TQfio\TQfio.Model\obj\Debug\netstandard2.0\TQifo.Model.csproj.CopyComplete
+E:\GitProjects\TQfio\TQfio.Model\obj\Debug\netstandard2.0\TQifo.Model.dll
+E:\GitProjects\TQfio\TQfio.Model\obj\Debug\netstandard2.0\TQifo.Model.pdb

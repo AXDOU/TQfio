@@ -1,0 +1,12 @@
+E:\GitProjects\TQfio\TQifo.IRepositoryes\bin\Debug\netstandard2.0\TQifo.IService.deps.json
+E:\GitProjects\TQfio\TQifo.IRepositoryes\bin\Debug\netstandard2.0\TQifo.IService.dll
+E:\GitProjects\TQfio\TQifo.IRepositoryes\bin\Debug\netstandard2.0\TQifo.IService.pdb
+E:\GitProjects\TQfio\TQifo.IRepositoryes\bin\Debug\netstandard2.0\TQifo.Library.dll
+E:\GitProjects\TQfio\TQifo.IRepositoryes\bin\Debug\netstandard2.0\TQifo.Library.pdb
+E:\GitProjects\TQfio\TQifo.IRepositoryes\obj\Debug\netstandard2.0\TQifo.IService.csprojAssemblyReference.cache
+E:\GitProjects\TQfio\TQifo.IRepositoryes\obj\Debug\netstandard2.0\TQifo.IService.AssemblyInfoInputs.cache
+E:\GitProjects\TQfio\TQifo.IRepositoryes\obj\Debug\netstandard2.0\TQifo.IService.AssemblyInfo.cs
+E:\GitProjects\TQfio\TQifo.IRepositoryes\obj\Debug\netstandard2.0\TQifo.IService.csproj.CoreCompileInputs.cache
+E:\GitProjects\TQfio\TQifo.IRepositoryes\obj\Debug\netstandard2.0\TQifo.IService.csproj.CopyComplete
+E:\GitProjects\TQfio\TQifo.IRepositoryes\obj\Debug\netstandard2.0\TQifo.IService.dll
+E:\GitProjects\TQfio\TQifo.IRepositoryes\obj\Debug\netstandard2.0\TQifo.IService.pdb
